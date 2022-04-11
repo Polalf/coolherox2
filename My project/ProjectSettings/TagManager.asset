@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Bullet
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Piso
+    uniqueID: 2906588557
+    locked: 0
+  - name: mon
+    uniqueID: 889476209
+    locked: 0
+  - name: muros
+    uniqueID: 1831290721
+    locked: 0
+  - name: ta
+    uniqueID: 556706583
+    locked: 0
+  - name: player
+    uniqueID: 4148553855
+    locked: 0
+  - name: pu
+    uniqueID: 1550111415
     locked: 0
